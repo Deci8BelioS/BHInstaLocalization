@@ -1,0 +1,57 @@
+/* Headers */
+"FEED" = "FEED";
+"SAVE MEDIA" = "GUARDAR CONTENIDO";
+"STORY AND DIRECT" = "HISTORIA Y MENSAJES DIRECTOS";
+"SECURITY" = "SEGURIDAD";
+
+/* Feed */
+"Hide Ads" = "Sin anuncios";
+"Remove all Ads from Instagram app" = "Elimina los anuncios en la aplicación de Instagram";
+"No suggested post" = "No hay publicaciones sugeridas";
+"Remove suggested posts from the feed" = "Elimina las publicaciones sugeridas del feed";
+"Show Like count" = "Mostrar recuento de Me gusta";
+"Show like count in the post" = "Muestra el recuento de Me gusta en la publicación";
+"Confirm like" = "Confirmación de Me gusta";
+"Show alert when you click the like button to confirm the like" = "Muestra una alerta al hacer clic en el botón de Me gusta para confirmar";
+"Copy description" = "Copiar descripción";
+"Copy the post description by long press" = "Copia la descripción de la publicación al mantener pulsado";
+
+/* Save Media */
+"Download Videos" = "Descargar contenido";
+"Download Videos by log press in any video you want." = "Descarga contenido al mantener pulsado cualquier video";
+"Save profile image" = "Guardar imagen de perfil";
+"Save profile image by long press." = "Guarda la imagen de perfil al mantener pulsado";
+
+/* Story And Direct */
+"Keep deleted message" = "Mantener mensajes no enviados";
+"Keep deleted direct message on the chat." = "Mantiene los mensajes no enviados en el chat";
+"Remove last seen" = "Leer mensajes en modo anónimo";
+"Remove last seen from the chat" = "Permite leer mensajes en modo anónimo";
+"Remove screenshot alert" = "Desactivar alerta de captura de pantalla";
+"Unlimited replay of once story" = "Repetición ilimitada de historias únicas";
+"Unlimited replay of once story in direct chat" = "Permite repetir historias únicas en el chat directo";
+"Disable Story Seen Receipt" = "Ver historias en modo anónimo";
+
+/* Security */
+"Padlock" = "Bloqueo";
+"Lock Instagram with passcode" = "Bloquear Instagram con código de acceso";
+
+/* Developer */
+"Tip Jar" = "Bote de propinas";
+"Donate Via Paypal" = "Donar a través de PayPal";
+
+/* Pop-ups And Other Stuff */
+"BHInsta settings" = "Ajustes de BHInsta";
+"BHInsta, Hi" = "Selecciona una acción";
+"Are you sure?" = "¿Estás seguro?";
+"Yes" = "Sí";
+"NO" = "No";
+"Cancel" = "Cancelar";
+"Download HD Profile Picture" = "Descargar imagen de perfil en HD";
+"Download Image - link 1 (HD)" = "Descargar imagen - enlace 1 (HD)";
+"Download Image - link 2 (SD)" = "Descargar imagen - enlace 2 (SD)";
+"Download video - link 1 (HD)" = "Descargar video - enlace 1 (HD)";
+"Download video - link 2 (SD)" = "Descargar video - enlace 2 (SD)";
+"Download Photo" = "Descargar foto";
+"Mark as Seen" = "Marcar como visto";
+"Downloading" = "Descargando";
