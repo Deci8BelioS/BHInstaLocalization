@@ -1,0 +1,57 @@
+/* Headers */
+"FEED" = "フィード";
+"SAVE MEDIA" = "メディアを保存";
+"STORY AND DIRECT" = "ストーリーとDM";
+"SECURITY" = "セキュリティ";
+
+/* Feed */
+"Hide Ads" = "広告非表示";
+"Remove all Ads from Instagram app" = "アプリ内広告を削除します";
+"No suggested post" = "おすすめ投稿なし";
+"Remove suggested posts from the feed" = "フィードからおすすめ投稿を削除します";
+"Show Like count" = "いいね数を表示";
+"Show like count in the post" = "投稿内にいいね数を表示します";
+"Confirm like" = "いいねを確認";
+"Show alert when you click the like button to confirm the like" = "いいねボタンをクリックした際に確認アラートを表示します";
+"Copy description" = "説明文をコピー";
+"Copy the post description by long press" = "長押しで投稿の説明をコピーします";
+
+/* Save Media */
+"Download Videos" = "メディアをダウンロード";
+"Download Videos by log press in any video you want." = "長押しでメディアをダウンロードします";
+"Save profile image" = "プロフィール画像を保存";
+"Save profile image by long press." = "長押しでプロフィール画像をダウンロードします";
+
+/* Story And Direct */
+"Keep deleted message" = "削除されたメッセージを保持";
+"Keep deleted direct message on the chat." = "チャット内で削除されたダイレクトメッセージを保持します";
+"Remove last seen" = "最終アクセスを非表示";
+"Remove last seen from the chat" = "チャットから最終アクセスを非表示にするします";
+"Remove screenshot alert" = "スクリーンショットアラートを無効化";
+"Unlimited replay of once story" = "メディアの無制限リプレイ";
+"Unlimited replay of once story in direct chat" = "一度だけのストーリーを無制限にリプレイします";
+"Disable Story Seen Receipt" = "ストーリーの閲覧を匿名化";
+
+/* Security */
+"Padlock" = "パスコードロック";
+"Lock Instagram with passcode" = "パスコードでInstagramをロック";
+
+/* Developer */
+"Tip Jar" = "Tip Jar";
+"Donate Via Paypal" = "PayPalで寄付する";
+
+/* Pop-ups And Other Stuff */
+"BHInsta settings" = "BHInsta設定";
+"BHInsta, Hi" = "アクションを選択";
+"Are you sure?" = "本当によろしいですか?";
+"Yes" = "はい";
+"NO" = "いいえ";
+"Cancel" = "キャンセル";
+"Download HD Profile Picture" = "プロフィール画像をダウンロード";
+"Download Image - link 1 (HD)" = "画像をダウンロード (HD)";
+"Download Image - link 2 (SD)" = "画像をダウンロード (SD)";
+"Download video - link 1 (HD)" = "動画をダウンロード (HD)";
+"Download video - link 2 (SD)" = "動画をダウンロード (SD)";
+"Download Photo" = "写真をダウンロード";
+"Mark as Seen" = "既読としてマーク";
+"Downloading" = "ダウンロード中...";
